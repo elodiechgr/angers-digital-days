@@ -1842,13 +1842,13 @@
 
   .nav_menu {
     flex-direction: column;
-    padding-bottom: 30px;
+    padding-bottom: 6px;
     padding-left: 0;
   }
 
   .nav_link {
-    padding-top: 10px;
-    padding-bottom: 10px;
+    padding-top: 4px;
+    padding-bottom: 0px;
     display: inline-block;
   }
 
@@ -2052,7 +2052,7 @@
   }
 
   .nav_link {
-    color: var(--black);
+    color: #6bd96e;
   }
 
   .nav_link:hover {
